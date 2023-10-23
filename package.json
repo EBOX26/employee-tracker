@@ -1,0 +1,24 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "Manage employees database",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EBOX26/employee-tracker.git"
+  },
+  "author": "Ethan Boland",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EBOX26/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/EBOX26/employee-tracker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.6.2"
+  }
+}
