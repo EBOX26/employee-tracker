@@ -27,6 +27,10 @@ WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database
 
 Screenshots:
+![image](https://github.com/EBOX26/employee-tracker/assets/139289311/9edcebbd-1a25-45d6-90fb-c586ab13a5e0)
+![image](https://github.com/EBOX26/employee-tracker/assets/139289311/a449c362-a9b9-4d2d-87cc-9eb726089eef)
+
+
 
 Github URL: https://github.com/EBOX26/employee-tracker.git
 
